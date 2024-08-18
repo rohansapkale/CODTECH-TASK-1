@@ -1,8 +1,13 @@
 Name : Rohan Lalit Sapkale
+
 Company : CODTECH IT SOLUTIONS
+
 ID: CT08DS6347
+
 Domain: Full Stack Web Development
+
 Duration : 1st August to 1st September 2024
+
 
 Here's a suitable README file content for your TODO List Web Application using HTML, CSS, JavaScript, and Tailwind CSS. The README includes instructions on how to insert images as well.
 
