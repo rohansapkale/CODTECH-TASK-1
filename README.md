@@ -67,26 +67,6 @@ This is a simple TODO List web application built using HTML, CSS, JavaScript, an
 2. **Edit a Task:** Click the edit icon next to the task to modify it.
 3. **Delete a Task:** Click the delete icon to remove the task from the list.
 
-## Screenshots
-
-To add screenshots or images to your README file, follow these steps:
-
-1. **Create an `assets` folder** in your project directory if you don't have one already:
-   ```bash
-   mkdir assets
-   ```
-
-2. **Save your images** in the `assets` folder (e.g., `demo.png`, `screenshot1.png`, etc.).
-
-3. **Reference the images** in your README using the following syntax:
-   ```markdown
-   ![Alt text](assets/demo.png)
-   ```
-   
-   Example:
-   ```markdown
-   ![Home Page Screenshot](assets/homepage.png)
-   ```
 
 ## Customization
 
