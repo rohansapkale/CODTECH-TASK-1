@@ -29,10 +29,10 @@ This is a simple TODO List web application built using HTML, CSS, JavaScript, an
 
 ## Demo
 
-[Insert a screenshot or a demo GIF of the application here]
-
-![TODO List Demo](screenshots/demo.jpg)
-
+Before Task :
+![Uploading TO-DOIT and 4 mor![TO-DOIT and 4 more pages - Profile 1 - Microsoft​ Edge 18-08-2024 13_06_44](https://github.com/user-attachments/assets/5dba1884-0e39-40b3-b83f-346d9dcd25d3)
+After Task Added:
+![TO-DOIT and 4 more pages - Profile 1 - Microsoft​ Edge 18-08-2024 13_06_44](https://github.com/user-attachments/assets/e0ae34bc-2b0a-45dd-9106-f279ff927736)
 ## Technologies Used
 
 - **HTML5**
